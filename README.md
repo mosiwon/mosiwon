@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mosiwon
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning ros2/gazebo
+
 - 📫 How to reach me "zxcv9141@naver.com"
 
 <!---
