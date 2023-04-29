@@ -1,5 +1,5 @@
 
-- 📫 How to reach me "zxcv9141@naver.com"
+- 📫 How to reach me "zxcvbnm914121@gmail.com"
 
 <!---
 mosiwon/mosiwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
